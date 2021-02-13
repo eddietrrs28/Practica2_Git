@@ -5,3 +5,4 @@ Pow
 Rattata
 Raticate
 Cubone
+Gengar
