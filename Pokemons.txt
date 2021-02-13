@@ -4,3 +4,4 @@ Mewtu
 Pow
 Rattata
 Raticate
+Cubone
