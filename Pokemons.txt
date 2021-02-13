@@ -4,3 +4,5 @@ Mewtu
 Pow
 Rattata
 Raticate
+Cubone
+Gengar
