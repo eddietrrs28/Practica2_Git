@@ -3,3 +3,4 @@ Picachu
 Mewtu
 Pow
 Rattata
+Raticate
