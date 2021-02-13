@@ -2,3 +2,4 @@ Charmander
 Picachu
 Mewtu
 Pow
+Rattata
